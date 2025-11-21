@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm KIRAN KUMAR S</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<image align="right" alt="coding" width="400" src=["[[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBGnR6JjMTYOLSjSM_bRMpaJaQUyjBuKW4XQ&s](https://i.pinimg.com/1200x/d1/35/56/d13556ec053cffc2410a682ee33436d6.jpg)](https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966)](https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966)">
+<image align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=kirandeep0219-lab&label=Profile%20views&color=0e75b6&style=flat" alt="kirandeep0219-lab"](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeUbUp5vAvElCuS5j8vP7Jpz8qxKEyDa_G4w&s) /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kirandeep0219-lab&label=Profile%20views&color=0e75b6&style=flat" alt="kirandeep0219-lab" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
